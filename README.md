@@ -1,6 +1,6 @@
 # Testing token based Authentication system with Django Rest Api
 
-#URLS:
+# URLS:
 
 ### /hello (for testing authorization output).
 ### /token/ (for requesting token).
