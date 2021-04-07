@@ -1,1 +1,1 @@
-# Testing tokken based Authentication system with Django Rest Api
+# Testing token based Authentication system with Django Rest Api
